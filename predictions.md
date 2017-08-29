@@ -13,7 +13,13 @@ http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-
 https://predictionbook.com/predictions/185224 "“PredictionBook: On 2018-08-29, the Center for Human-Compatible AI will be spending at least $2 million a year, and will be considered by one or more of Open Philanthropy Project's relevant technical advisors to have a reasonably good reputation in the fie”. Retrieved August 29, 2017."
 
 http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/impact-justice-restorative-justice-project
+
 http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/ordinary-peoples-society-general-support
+
+https://predictionbook.com/predictions/185225 "“PredictionBook: By September 2016, the Prodigal Child Project will have made enough progress for more than 75 pastors to show significant support for incarceration reform (through, e.g., attending rallies, writing op-eds, giving sermons, or other actions)”. Retrieved August 29, 2017."
+
+https://predictionbook.com/predictions/185226 "“PredictionBook: Pastor Kenneth Glasgow’s pastor network will play an influential role in the upcoming legislative sessions (for some definition of “influential” that Open Philanthropy Project is comfortable with in retrospect)”. Retrieved August 29, 2017."
+
 http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/CIWF-USA-general-support
 http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/grants-support-farm-animal-welfare-work-china
 http://www.openphilanthropy.org/giving/grants/80000-hours-general-support
