@@ -70,6 +70,26 @@ http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/grants-suppo
 >     million in some of these groups for their work in China after the
 >     two-year grant period is over
 
+https://predictionbook.com/predictions/185229 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Compassion in World Farming a success”. Retrieved August 29, 2017."
+
+https://predictionbook.com/predictions/185230 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Compassion in World Farming a major success”. Retrieved August 29, 2017."
+
+https://predictionbook.com/predictions/185231 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to World Animal Protection a success”. Retrieved August 29, 2017."
+
+https://predictionbook.com/predictions/185232 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to World Animal Protection a major success”. Retrieved August 29, 2017."
+
+https://predictionbook.com/predictions/185233 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to The Royal Society for the Prevention of Cruelty to Animals (RSPCA) a success”. Retrieved August 29, 2017."
+
+https://predictionbook.com/predictions/185234 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to The Royal Society for the Prevention of Cruelty to Animals (RSPCA) a major success”. Retrieved August 29, 2017."
+
+https://predictionbook.com/predictions/185235 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Humane Slaughter Association (HSA) a success”. Retrieved August 29, 2017."
+
+https://predictionbook.com/predictions/185236 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Humane Slaughter Association (HSA) a major success”. Retrieved August 29, 2017."
+
+https://predictionbook.com/predictions/185237 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Jeanne Marchig Centre a success”. Retrieved August 29, 2017."
+
+https://predictionbook.com/predictions/185238 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Jeanne Marchig Centre a major success”. Retrieved August 29, 2017."
+
 http://www.openphilanthropy.org/giving/grants/80000-hours-general-support
 http://www.openphilanthropy.org/giving/grants/centre-effective-altruism-general-support
 http://www.openphilanthropy.org/giving/grants/university-pennsylvania-philip-tetlock-forecasting
