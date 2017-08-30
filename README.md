@@ -26,3 +26,15 @@ https://www.google.com/search?q=site%3Aopenphilanthropy.org%20%22Internal%20fore
 https://www.google.com/search?q=site%3Aopenphilanthropy.org%20%22recording%20the%20following%20forecasts%22
 
 https://www.google.com/search?q=site%3Aopenphilanthropy.org%20%22implicit%20predictions%20that%20are%20playing%20a%20role%20in%20our%20decisions%22
+
+## Acknowledgements
+
+The predictions are essentially copied off Open Philanthropy Project's website.
+
+[Vipul Naik](https://vipulnaik.com/) sponsored my work on this task.
+
+## License
+
+The predictions are essentially copied off Open Philanthropy Project's website,
+so the license is probably the CC license Open Phil uses: Creative Commons
+Attribution-Noncommercial-ShareAlike 3.0 United States License.
