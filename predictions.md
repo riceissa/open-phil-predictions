@@ -143,9 +143,9 @@ https://predictionbook.com/predictions/185231 "“PredictionBook: Open Philanthr
 
 https://predictionbook.com/predictions/185232 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to World Animal Protection a major success”. Retrieved August 29, 2017."
 
-https://predictionbook.com/predictions/185233 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to The Royal Society for the Prevention of Cruelty to Animals (RSPCA) a success”. Retrieved August 29, 2017."
+https://predictionbook.com/predictions/185233 "“PredictionBook: Open Philanthropy Project will consider its 2017 grant to The Royal Society for the Prevention of Cruelty to Animals (RSPCA) a success”. Retrieved August 30, 2017."
 
-https://predictionbook.com/predictions/185234 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to The Royal Society for the Prevention of Cruelty to Animals (RSPCA) a major success”. Retrieved August 29, 2017."
+https://predictionbook.com/predictions/185234 "“PredictionBook: Open Philanthropy Project will consider its 2017 grant to The Royal Society for the Prevention of Cruelty to Animals (RSPCA) a major success”. Retrieved August 30, 2017."
 
 https://predictionbook.com/predictions/185235 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Humane Slaughter Association (HSA) a success”. Retrieved August 29, 2017."
 
