@@ -69,7 +69,7 @@ http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/ordinary
 >     upcoming legislative sessions (for some definition of “influential”
 >     that we’re comfortable with in retrospect): 60%
 
-https://predictionbook.com/predictions/185225 "“PredictionBook: By September 2016, the Prodigal Child Project will have made enough progress for more than 75 pastors to show significant support for incarceration reform (through, e.g., attending rallies, writing op-eds, giving sermons, or other actions)”. Retrieved August 29, 2017."
+https://predictionbook.com/predictions/185225 "“PredictionBook: By 2016-10-01, the Prodigal Child Project will have made enough progress for more than 75 pastors to show significant support for incarceration reform (through, e.g., attending rallies, writing op-eds, giving sermons, or other actions)”. Retrieved August 30, 2017."
 
 https://predictionbook.com/predictions/185226 "“PredictionBook: Pastor Kenneth Glasgow’s pastor network will play an influential role in the upcoming legislative sessions (for some definition of “influential” that Open Philanthropy Project is comfortable with in retrospect)”. Retrieved August 29, 2017."
 
