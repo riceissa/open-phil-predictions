@@ -54,6 +54,21 @@ https://predictionbook.com/predictions/185271 "“PredictionBook: Open Philanthr
 
 http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/ordinary-peoples-society-general-support
 
+> We’re experimenting with recording explicit numerical forecasts of
+> events related to our decisionmaking (especially grantmaking). The idea
+> behind this is to pull out the implicit predictions that are playing a
+> role in our decisions, and make it possible for us to look back on how
+> well-calibrated and accurate those are. For this grant, we are recording
+> the following forecasts:
+>
+> -   By September, the Prodigal Child Project will have made enough
+>     progress for more than 75 pastors to show significant support for
+>     incarceration reform (through, e.g., attending rallies, writing
+>     op-eds, giving sermons, or other actions): 40%
+> -   Pastor Glasgow’s pastor network will play an influential role in the
+>     upcoming legislative sessions (for some definition of “influential”
+>     that we’re comfortable with in retrospect): 60%
+
 https://predictionbook.com/predictions/185225 "“PredictionBook: By September 2016, the Prodigal Child Project will have made enough progress for more than 75 pastors to show significant support for incarceration reform (through, e.g., attending rallies, writing op-eds, giving sermons, or other actions)”. Retrieved August 29, 2017."
 
 https://predictionbook.com/predictions/185226 "“PredictionBook: Pastor Kenneth Glasgow’s pastor network will play an influential role in the upcoming legislative sessions (for some definition of “influential” that Open Philanthropy Project is comfortable with in retrospect)”. Retrieved August 29, 2017."
