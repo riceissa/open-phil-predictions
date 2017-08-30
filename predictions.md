@@ -35,6 +35,23 @@ https://predictionbook.com/predictions/185224 "“PredictionBook: On 2018-09-01,
 
 http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/impact-justice-restorative-justice-project
 
+> We’re experimenting with recording explicit numerical forecasts of
+> events related to our decisionmaking (especially grantmaking). The idea
+> behind this is to pull out the implicit predictions that are playing a
+> role in our decisions and make it possible for us to look back on how
+> well-calibrated and accurate those are. For this grant, we are recording
+> the following forecasts:
+>
+> -   10% chance that we will consider this grant a cost-effective success
+>     in one year.
+> -   70% chance that this grant will play an important role in getting
+>     traction for the concept of restorative justice on a national level
+>     over the next three years.
+
+https://predictionbook.com/predictions/185270 "“PredictionBook: Open Philanthropy Project will consider its December 2016 grant to Impact Justice for its Restorative Justice Project a cost-effective success on 2018-01-01”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185271 "“PredictionBook: Open Philanthropy Project's December 2016 grant to Impact Justice's Restorative Justice Project will play an important role in getting traction for the concept of restorative justice on a national level (United States) by 2020-01-01”. Retrieved August 30, 2017."
+
 http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/ordinary-peoples-society-general-support
 
 https://predictionbook.com/predictions/185225 "“PredictionBook: By September 2016, the Prodigal Child Project will have made enough progress for more than 75 pastors to show significant support for incarceration reform (through, e.g., attending rallies, writing op-eds, giving sermons, or other actions)”. Retrieved August 29, 2017."
