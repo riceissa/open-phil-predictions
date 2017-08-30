@@ -6,6 +6,27 @@ https://predictionbook.com/predictions/185223 "“PredictionBook: Open Philanthr
 
 http://www.openphilanthropy.org/focus/global-catastrophic-risks/miscellaneous/university-cape-town-geomagnetics-research
 
+> We’re experimenting with recording explicit numerical forecasts of
+> events related to our decisionmaking (especially grantmaking). The idea
+> behind this is to pull out the implicit predictions that are playing a
+> role in our decisions, and make it possible for us to look back on how
+> well-calibrated and accurate those are. For this grant, we are recording
+> the following forecasts:
+>
+> -   An 85% chance that Professor Gaunt will complete 80% of the work by
+>     the end of the grant period.
+> -   An 80% chance that we will consider this grant a success given that
+>     Professor Gaunt completes at least 80% of the work.
+> -   A 20% chance that Professor Gaunt follows up or causes someone else
+>     to follow up with a proposal to widely effect positive policy change
+>     in this area in the next ten years.
+
+https://predictionbook.com/predictions/185267 "“PredictionBook: Professor Trevor Gaunt will complete 80% of the work for the Open Philanthropy Project Geomagnetics Research grant by 2019-10-01”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185268 "“PredictionBook: Open Philanthropy Project will consider its September 2016 University of Cape Town Geomagnetics Research grant a success given that Professor Gaunt completes at least 80% of the work”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185269 "“PredictionBook: Professor Trevor Gaunt follows up or causes someone else to follow up with a proposal to widely effect positive policy change in this area [potential risks that geomagnetic storms] by 2027-10-01”. Retrieved August 30, 2017."
+
 http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/uc-berkeley-center-human-compatible-ai
 
 > 50% chance that, two years from now, the Center will be spending at least $2 million a year, and will be considered by one or more of our relevant technical advisors to have a reasonably good reputation in the field.
