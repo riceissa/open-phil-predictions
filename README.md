@@ -1,8 +1,21 @@
 # Open Philanthropy predictions
 
+Unofficially ported Open Philanthropy Project predictions.
+
+[PredictionBook account](https://predictionbook.com/users/OpenPhilUnofficial)
+
 ## Background
 
 http://www.openphilanthropy.org/giving/grants/internal-forecasts
+
+## "known on" dates
+
+- For predictions with no date of determination, we use a "known on" date 10
+  years from the first day of the month following the grant month.
+- For predictions with a date of determination, we use a "known on" date 2
+  years after the date of determination, and include the date of determination
+  in the prediction text. This is regardless of whether the date of
+  determination has already passed.
 
 ## Finding the grants with predictions
 
