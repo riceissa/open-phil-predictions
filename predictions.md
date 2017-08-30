@@ -258,3 +258,20 @@ https://predictionbook.com/predictions/185304 "“PredictionBook: On 2018-01-01,
 https://predictionbook.com/predictions/185305 "“PredictionBook: On 2018-01-01, Open Philanthropy Research Analyst Ajeya Cotra thinks CEA’s support of EA student groups has improved since September 2016 (conditional on Ajeya feeling she has enough evidence to make such a judgment)”. Retrieved August 30, 2017."
 
 http://www.openphilanthropy.org/giving/grants/university-pennsylvania-philip-tetlock-forecasting
+
+> We’re experimenting with recording explicit numerical forecasts of
+> events related to our decisionmaking (especially grantmaking), in part
+> in connection with our interest in the topic of this grant. The idea
+> behind this is to pull out the implicit predictions that are playing a
+> role in our decisions, and make it possible for us to look back on how
+> well-calibrated and accurate those are. For this grant, we are recording
+> the following forecast:
+>
+> -   The Alpha Pundit Challenge, or something like it, will have
+>     converted five or more vague predictions from pundits into numerical
+>     predictions, beyond those described in [Tetlock, Alpha Pundit
+>     Challenge
+>     Proposal](http://www.openphilanthropy.org/files/Grants/Tetlock/Revolutionizing_the_interviewing_of_alpha-pundits_nov_10_2015.pdf){.source-definition},
+>     by December 31, 2016: 50%
+
+https://predictionbook.com/predictions/185306 "“PredictionBook: The Alpha Pundit Challenge, or something like it, will have converted five or more vague predictions from pundits into numerical predictions, beyond those described in Tetlock, Alpha Pundit Challenge Proposal, by December 31, 2016”. Retrieved August 30, 2017."
