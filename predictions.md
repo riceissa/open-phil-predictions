@@ -90,6 +90,12 @@ https://predictionbook.com/predictions/185237 "“PredictionBook: Open Philanthr
 
 https://predictionbook.com/predictions/185238 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Jeanne Marchig Centre a major success”. Retrieved August 29, 2017."
 
+https://predictionbook.com/predictions/185239 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Animal Welfare Standards Project a success”. Retrieved August 29, 2017."
+
+https://predictionbook.com/predictions/185240 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Animal Welfare Standards Project a major success”. Retrieved August 29, 2017."
+
+https://predictionbook.com/predictions/185241 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Green Monday a success”. Retrieved August 29, 2017."
+
 http://www.openphilanthropy.org/giving/grants/80000-hours-general-support
 http://www.openphilanthropy.org/giving/grants/centre-effective-altruism-general-support
 http://www.openphilanthropy.org/giving/grants/university-pennsylvania-philip-tetlock-forecasting
