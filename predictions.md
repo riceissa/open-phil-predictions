@@ -135,9 +135,9 @@ http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/grants-suppo
 >     million in some of these groups for their work in China after the
 >     two-year grant period is over
 
-https://predictionbook.com/predictions/185229 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Compassion in World Farming a success”. Retrieved August 29, 2017."
+https://predictionbook.com/predictions/185229 "“PredictionBook: Open Philanthropy Project will consider its 2017 grant to Compassion in World Farming a success”. Retrieved August 30, 2017."
 
-https://predictionbook.com/predictions/185230 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Compassion in World Farming a major success”. Retrieved August 29, 2017."
+https://predictionbook.com/predictions/185230 "“PredictionBook: Open Philanthropy Project will consider its 2017 grant to Compassion in World Farming a major success”. Retrieved August 30, 2017."
 
 https://predictionbook.com/predictions/185231 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to World Animal Protection a success”. Retrieved August 29, 2017."
 
