@@ -151,9 +151,9 @@ https://predictionbook.com/predictions/185235 "“PredictionBook: Open Philanthr
 
 https://predictionbook.com/predictions/185236 "“PredictionBook: Open Philanthropy Project will consider its 2017 grant to Humane Slaughter Association (HSA) a major success”. Retrieved August 30, 2017."
 
-https://predictionbook.com/predictions/185237 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Jeanne Marchig Centre a success”. Retrieved August 29, 2017."
+https://predictionbook.com/predictions/185237 "“PredictionBook: Open Philanthropy Project will consider its 2017 grant to Jeanne Marchig Centre a success”. Retrieved August 30, 2017."
 
-https://predictionbook.com/predictions/185238 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Jeanne Marchig Centre a major success”. Retrieved August 29, 2017."
+https://predictionbook.com/predictions/185238 "“PredictionBook: Open Philanthropy Project will consider its 2017 grant to Jeanne Marchig Centre a major success”. Retrieved August 30, 2017."
 
 https://predictionbook.com/predictions/185239 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Animal Welfare Standards Project a success”. Retrieved August 29, 2017."
 
