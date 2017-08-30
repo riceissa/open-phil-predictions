@@ -75,6 +75,18 @@ https://predictionbook.com/predictions/185226 "“PredictionBook: Pastor Kenneth
 
 http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/CIWF-USA-general-support
 
+> We’re experimenting with recording explicit numerical forecasts of
+> events related to our decisionmaking (especially grantmaking). The idea
+> behind this is to pull out the implicit predictions that are playing a
+> role in our decisions, and make it possible for us to look back on how
+> well-calibrated and accurate those are. For this grant, we are recording
+> the following forecasts:
+>
+> -   50% chance that CIWF USA will persuade at least one major poultry
+>     company to adopt a meaningful broiler chicken welfare policy.
+> -   75% chance that CIWF USA will play a major role in securing five or
+>     more new corporate cage-free pledges.
+
 https://predictionbook.com/predictions/185227 "“PredictionBook: CIWF USA will persuade at least one major poultry company to adopt a meaningful broiler chicken welfare policy”. Retrieved August 29, 2017."
 
 https://predictionbook.com/predictions/185228 "“PredictionBook: CIWF USA will play a major role in securing five or more new corporate cage-free pledges”. Retrieved August 29, 2017."
