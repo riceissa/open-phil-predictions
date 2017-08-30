@@ -163,6 +163,10 @@ https://predictionbook.com/predictions/185241 "“PredictionBook: Open Philanthr
 
 https://predictionbook.com/predictions/185272 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Green Monday a major success”. Retrieved August 30, 2017."
 
+https://predictionbook.com/predictions/185273 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to support the work of Professor Deborah Cao a success”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185274 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to support the work of Professor Deborah Cao a major success”. Retrieved August 30, 2017."
+
 http://www.openphilanthropy.org/giving/grants/80000-hours-general-support
 http://www.openphilanthropy.org/giving/grants/centre-effective-altruism-general-support
 http://www.openphilanthropy.org/giving/grants/university-pennsylvania-philip-tetlock-forecasting
