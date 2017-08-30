@@ -1,6 +1,10 @@
 # Open Philanthropy predictions
 
+## Background
+
 http://www.openphilanthropy.org/giving/grants/internal-forecasts
+
+## Finding the grants with predictions
 
 https://www.google.com/search?q=site%3Aopenphilanthropy.org%20%22Predictions%20relevant%20to%20the%20grant%22
 
