@@ -171,6 +171,14 @@ https://predictionbook.com/predictions/185275 "“PredictionBook: Open Philanthr
 
 https://predictionbook.com/predictions/185276 "“PredictionBook: Open Philanthropy Project will consider its 2016 grant to Brighter Green a major success”. Retrieved August 30, 2017."
 
+https://predictionbook.com/predictions/185277 "“PredictionBook: The WildAid campaign will contribute to a noticeable decline in the growth of Chinese meat consumption by 2019-10-01”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185278 "“PredictionBook: Open Philanthropy Project will want to invest at least an additional $1 million in some of the animal welfare groups for their work in China after the two-year grant period is over”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185279 "“PredictionBook: Open Philanthropy Project will want to invest at least an additional $3 million in some of the animal welfare groups for their work in China after the two-year grant period is over”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185280 "“PredictionBook: Open Philanthropy Project will want to invest at least an additional $5 million in some of the animal welfare groups groups for their work in China after the two-year grant period is over”. Retrieved August 30, 2017."
+
 http://www.openphilanthropy.org/giving/grants/80000-hours-general-support
 http://www.openphilanthropy.org/giving/grants/centre-effective-altruism-general-support
 http://www.openphilanthropy.org/giving/grants/university-pennsylvania-philip-tetlock-forecasting
