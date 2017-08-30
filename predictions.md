@@ -180,5 +180,30 @@ https://predictionbook.com/predictions/185279 "“PredictionBook: Open Philanthr
 https://predictionbook.com/predictions/185280 "“PredictionBook: Open Philanthropy Project will want to invest at least an additional $5 million in some of the animal welfare groups groups for their work in China after the two-year grant period is over”. Retrieved August 30, 2017."
 
 http://www.openphilanthropy.org/giving/grants/80000-hours-general-support
+
+> For this grant, we are recording the following
+> [forecasts](http://www.openphilanthropy.org/giving/grants/internal-forecasts)
+> (though note that these forecasts are rougher than usual):
+>
+> -   80,000 Hours claims at least 1,500 impact-adjusted plan changes in
+>     2017: 66%
+> -   80,000 Hours claims at least 2,400 impact-adjusted plan changes in
+>     2017: 33%
+> -   80,000 Hours hires at least two staff members in 2017: 60%
+> -   80,000 Hours raises at least \$750,000 by February 1, 2017, not
+>     including funding from the Open Philanthropy Project: 70%
+> -   80,000 Hours raises at least \$1,250,000 by February 1, 2017, not
+>     including funding from the Open Philanthropy Project: 35%
+>
+> (The above predictions were made on December 16, 2016. In fact, 80,000
+> Hours raised about \$1 million between February 1, 2016 and February 1,
+> 2017.)
+
+https://predictionbook.com/prediction_groups/218 "“PredictionBook: The number of impact-adjusted plan changes in 2017 claimed by 80,000 Hours will be at least”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185283 "“PredictionBook: 80,000 Hours hires at least two staff members in 2017”. Retrieved August 30, 2017."
+
+https://predictionbook.com/prediction_groups/219 "“PredictionBook: The amount of money raised by 80,000 Hours by February 1, 2017, not including funding from the Open Philanthropy Project, will be at least”. Retrieved August 30, 2017."
+
 http://www.openphilanthropy.org/giving/grants/centre-effective-altruism-general-support
 http://www.openphilanthropy.org/giving/grants/university-pennsylvania-philip-tetlock-forecasting
