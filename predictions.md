@@ -206,4 +206,55 @@ https://predictionbook.com/predictions/185283 "“PredictionBook: 80,000 Hours h
 https://predictionbook.com/prediction_groups/219 "“PredictionBook: The amount of money raised by 80,000 Hours by February 1, 2017, not including funding from the Open Philanthropy Project, will be at least”. Retrieved August 30, 2017."
 
 http://www.openphilanthropy.org/giving/grants/centre-effective-altruism-general-support
+
+> Given that we think GWWC pledges account for a significant portion of
+> CEA’s impact, we have tried to predict the likely number of pledges
+> that will be made over the course of our grant. Nick’s probability
+> distribution for the total number of GWWC members on January 1, 2018,
+> is:6
+>
+> -   Less than 3,500 (i.e., growth to 1.4x the current total or less):
+>     7%
+> -   Between 3,500 and 5,000 (1.4x–2x growth): 71%
+> -   Between 5,000 and 7,500 (2x–3x growth): 17%
+> -   More than 7,500 (more than 3x growth): 5%
+>
+> Other predictions:
+>
+> -   By November 2017, CEA provides compelling evidence that each of
+>     the following projects results on average in a new GWWC pledge for
+>     less than $2,000:
+>
+>     -   *Doing Good Better* book giveaway: 60%
+>     -   EAGx events: 30%8
+>     -   Standard marketing and outreach (e.g. online ads): 65%
+>
+> -   Nick considers EA Global 2017 better executed than EA Global 2016:
+>     70%
+>
+> -   At the start of 2018, Nick believes that cause prioritization
+>     working groups at universities are a cost-effective way of
+>     identifying new talent in the EA community (conditional on there
+>     being at least three such working groups, which he thinks is
+>     likely): 70%
+>
+> -   At the start of 2018, Open Philanthropy Research Analyst Ajeya
+>     Cotra thinks CEA’s support of EA student groups has improved since
+>     September 2016 (conditional on Ajeya feeling she has enough
+>     evidence to make such a judgment): 75%
+
+https://predictionbook.com/prediction_groups/220 "“PredictionBook: The total number of GWWC members on January 1, 2018, is”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185300 "“PredictionBook: By 2017-12-01, CEA provides compelling evidence that the Doing Good Better book giveaway results on average in a new GWWC pledge for less than $2,000”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185301 "“PredictionBook: By 2017-12-01, CEA provides compelling evidence that EAGx events result on average in a new GWWC pledge for less than $2,000”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185302 "“PredictionBook: By 2017-12-01, CEA provides compelling evidence that standard marketing and outreach (e.g. online ads) result on average in a new GWWC pledge for less than $2,000”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185303 "“PredictionBook: Nick Beckstead considers EA Global 2017 better executed than EA Global 2016”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185304 "“PredictionBook: On 2018-01-01, Nick Beckstead believes that cause prioritization working groups at universities are a cost-effective way of identifying new talent in the EA community (cond. on there being at least 3 such working groups, which he thinks is”. Retrieved August 30, 2017."
+
+https://predictionbook.com/predictions/185305 "“PredictionBook: On 2018-01-01, Open Philanthropy Research Analyst Ajeya Cotra thinks CEA’s support of EA student groups has improved since September 2016 (conditional on Ajeya feeling she has enough evidence to make such a judgment)”. Retrieved August 30, 2017."
+
 http://www.openphilanthropy.org/giving/grants/university-pennsylvania-philip-tetlock-forecasting
