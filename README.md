@@ -31,7 +31,8 @@ https://www.google.com/search?q=site%3Aopenphilanthropy.org%20%22implicit%20pred
 
 The predictions are essentially copied off Open Philanthropy Project's website.
 
-[Vipul Naik](https://vipulnaik.com/) sponsored my work on this task.
+[Vipul Naik](https://vipulnaik.com/) asked me to work this task and sponsored
+its completion.
 
 ## License
 
