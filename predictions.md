@@ -31,7 +31,7 @@ http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-
 
 > 50% chance that, two years from now, the Center will be spending at least $2 million a year, and will be considered by one or more of our relevant technical advisors to have a reasonably good reputation in the field.
 
-https://predictionbook.com/predictions/185224 "“PredictionBook: On 2018-08-29, the Center for Human-Compatible AI will be spending at least $2 million a year, and will be considered by one or more of Open Philanthropy Project's relevant technical advisors to have a reasonably good reputation in the fie”. Retrieved August 29, 2017."
+https://predictionbook.com/predictions/185224 "“PredictionBook: On 2018-09-01, the Center for Human-Compatible AI will be spending at least $2 million a year, and will be considered by one or more of Open Philanthropy Project's relevant technical advisors to have a reasonably good reputation in the fie”. Retrieved August 30, 2017."
 
 http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/impact-justice-restorative-justice-project
 
