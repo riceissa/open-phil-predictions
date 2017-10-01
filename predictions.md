@@ -1,10 +1,10 @@
-http://www.openphilanthropy.org/focus/global-catastrophic-risks/miscellaneous/harvard-university-solar-geoengineering-research-program
+https://www.openphilanthropy.org/focus/global-catastrophic-risks/miscellaneous/harvard-university-solar-geoengineering-research-program
 
 > 80% chance that we will consider this grant a success in 10 years.
 
 https://predictionbook.com/predictions/185223 "“PredictionBook: Open Philanthropy Project considers its December 2016 grant to Harvard University's Solar Geoengineering Research Program a success on 2027-01-01”. Retrieved August 30, 2017."
 
-http://www.openphilanthropy.org/focus/global-catastrophic-risks/miscellaneous/university-cape-town-geomagnetics-research
+https://www.openphilanthropy.org/focus/global-catastrophic-risks/miscellaneous/university-cape-town-geomagnetics-research
 
 > We’re experimenting with recording explicit numerical forecasts of
 > events related to our decisionmaking (especially grantmaking). The idea
@@ -27,13 +27,13 @@ https://predictionbook.com/predictions/185268 "“PredictionBook: Open Philanthr
 
 https://predictionbook.com/predictions/185269 "“PredictionBook: Professor Trevor Gaunt follows up or causes someone else to follow up with a proposal to widely effect positive policy change in this area [potential risks that geomagnetic storms] by 2027-10-01”. Retrieved August 30, 2017."
 
-http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/uc-berkeley-center-human-compatible-ai
+https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/uc-berkeley-center-human-compatible-ai
 
 > 50% chance that, two years from now, the Center will be spending at least $2 million a year, and will be considered by one or more of our relevant technical advisors to have a reasonably good reputation in the field.
 
 https://predictionbook.com/predictions/185224 "“PredictionBook: On 2018-09-01, the Center for Human-Compatible AI will be spending at least $2 million a year, and will be considered by one or more of Open Philanthropy Project's relevant technical advisors to have a reasonably good reputation in the fie”. Retrieved August 30, 2017."
 
-http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/impact-justice-restorative-justice-project
+https://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/impact-justice-restorative-justice-project
 
 > We’re experimenting with recording explicit numerical forecasts of
 > events related to our decisionmaking (especially grantmaking). The idea
@@ -52,7 +52,7 @@ https://predictionbook.com/predictions/185270 "“PredictionBook: Open Philanthr
 
 https://predictionbook.com/predictions/185271 "“PredictionBook: Open Philanthropy Project's December 2016 grant to Impact Justice's Restorative Justice Project will play an important role in getting traction for the concept of restorative justice on a national level (United States) by 2020-01-01”. Retrieved August 30, 2017."
 
-http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/ordinary-peoples-society-general-support
+https://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/ordinary-peoples-society-general-support
 
 > We’re experimenting with recording explicit numerical forecasts of
 > events related to our decisionmaking (especially grantmaking). The idea
@@ -73,7 +73,7 @@ https://predictionbook.com/predictions/185225 "“PredictionBook: By 2016-10-01,
 
 https://predictionbook.com/predictions/185226 "“PredictionBook: Pastor Kenneth Glasgow’s pastor network will play an influential role in the upcoming legislative sessions (for some definition of “influential” that Open Philanthropy Project is comfortable with in retrospect)”. Retrieved August 29, 2017."
 
-http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/CIWF-USA-general-support
+https://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/CIWF-USA-general-support
 
 > We’re experimenting with recording explicit numerical forecasts of
 > events related to our decisionmaking (especially grantmaking). The idea
@@ -91,7 +91,7 @@ https://predictionbook.com/predictions/185227 "“PredictionBook: CIWF USA will 
 
 https://predictionbook.com/predictions/185228 "“PredictionBook: CIWF USA will play a major role in securing five or more new corporate cage-free pledges”. Retrieved August 29, 2017."
 
-http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/grants-support-farm-animal-welfare-work-china
+https://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/grants-support-farm-animal-welfare-work-china
 
 > Given that the primary goals of these grants are to build institutional
 > interest and capacity in farm animal welfare, we do not have specific
@@ -179,10 +179,10 @@ https://predictionbook.com/predictions/185279 "“PredictionBook: Open Philanthr
 
 https://predictionbook.com/predictions/185280 "“PredictionBook: Open Philanthropy Project will want to invest at least an additional $5 million in some of the animal welfare groups groups for their work in China after the two-year grant period is over”. Retrieved August 30, 2017."
 
-http://www.openphilanthropy.org/giving/grants/80000-hours-general-support
+https://www.openphilanthropy.org/giving/grants/80000-hours-general-support
 
 > For this grant, we are recording the following
-> [forecasts](http://www.openphilanthropy.org/giving/grants/internal-forecasts)
+> [forecasts](https://www.openphilanthropy.org/giving/grants/internal-forecasts)
 > (though note that these forecasts are rougher than usual):
 >
 > -   80,000 Hours claims at least 1,500 impact-adjusted plan changes in
@@ -205,7 +205,7 @@ https://predictionbook.com/predictions/185283 "“PredictionBook: 80,000 Hours h
 
 https://predictionbook.com/prediction_groups/219 "“PredictionBook: The amount of money raised by 80,000 Hours by February 1, 2017, not including funding from the Open Philanthropy Project, will be at least”. Retrieved August 30, 2017."
 
-http://www.openphilanthropy.org/giving/grants/centre-effective-altruism-general-support
+https://www.openphilanthropy.org/giving/grants/centre-effective-altruism-general-support
 
 > Given that we think GWWC pledges account for a significant portion of
 > CEA’s impact, we have tried to predict the likely number of pledges
@@ -257,7 +257,7 @@ https://predictionbook.com/predictions/185304 "“PredictionBook: On 2018-01-01,
 
 https://predictionbook.com/predictions/185305 "“PredictionBook: On 2018-01-01, Open Philanthropy Research Analyst Ajeya Cotra thinks CEA’s support of EA student groups has improved since September 2016 (conditional on Ajeya feeling she has enough evidence to make such a judgment)”. Retrieved August 30, 2017."
 
-http://www.openphilanthropy.org/giving/grants/university-pennsylvania-philip-tetlock-forecasting
+https://www.openphilanthropy.org/giving/grants/university-pennsylvania-philip-tetlock-forecasting
 
 > We’re experimenting with recording explicit numerical forecasts of
 > events related to our decisionmaking (especially grantmaking), in part
@@ -271,7 +271,7 @@ http://www.openphilanthropy.org/giving/grants/university-pennsylvania-philip-tet
 >     converted five or more vague predictions from pundits into numerical
 >     predictions, beyond those described in [Tetlock, Alpha Pundit
 >     Challenge
->     Proposal](http://www.openphilanthropy.org/files/Grants/Tetlock/Revolutionizing_the_interviewing_of_alpha-pundits_nov_10_2015.pdf){.source-definition},
+>     Proposal](https://www.openphilanthropy.org/files/Grants/Tetlock/Revolutionizing_the_interviewing_of_alpha-pundits_nov_10_2015.pdf){.source-definition},
 >     by December 31, 2016: 50%
 
 https://predictionbook.com/predictions/185306 "“PredictionBook: The Alpha Pundit Challenge, or something like it, will have converted five or more vague predictions from pundits into numerical predictions, beyond those described in Tetlock, Alpha Pundit Challenge Proposal, by December 31, 2016”. Retrieved August 30, 2017."
