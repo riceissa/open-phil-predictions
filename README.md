@@ -6,7 +6,7 @@ Unofficially ported Open Philanthropy Project predictions.
 
 ## Background
 
-http://www.openphilanthropy.org/giving/grants/internal-forecasts
+https://www.openphilanthropy.org/giving/grants/internal-forecasts
 
 ## "known on" dates
 
