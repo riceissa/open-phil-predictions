@@ -8,6 +8,11 @@ Unofficially ported Open Philanthropy Project predictions.
 
 https://www.openphilanthropy.org/giving/grants/internal-forecasts
 
+https://www.openphilanthropy.org/blog/efforts-improve-accuracy-our-judgments-and-forecasts
+
+In particular, see https://www.openphilanthropy.org/blog/efforts-improve-accuracy-our-judgments-and-forecasts#comment-320
+in light of the comment above it, that explains Open Phil's plan around public updates on their internal forecasts.
+
 ## "known on" dates
 
 - For predictions with no date of determination, we use a "known on" date 10
